@@ -103,4 +103,4 @@
 | **(#100) Tried accessing nonexisting field (instagram_business_account)...** | Token 缺少讀取 IG 商業帳號資訊的權限。 | 回到步驟一，**務必勾選 `instagram_basic` 和 `pages_show_list`**。 |
 
 ---
-*本指南由 Manus AI 根據實際除錯經驗編寫。*
+

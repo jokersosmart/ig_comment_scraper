@@ -51,4 +51,4 @@ streamlit run app.py
 *   **[IG_Token_Acquisition_Log.md](./IG_Token_Acquisition_Log.md)**
 
 ---
-*本專案由 Manus AI 協助開發與維護。*
+
